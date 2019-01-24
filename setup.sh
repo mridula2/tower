@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #bash <(curl -s https://raw.github.hpe.com/oscar-romero/Tower/master/setup.sh)
-
+#bash <(curl -s https://raw.githubusercontent.com/mridula2/tower/master/setup.sh)
 echo '''export http_proxy=http://proxy.houston.hpecorp.net:8080
 export https_proxy=http://proxy.houston.hpecorp.net:8080
 export HTTP_PROXY=http://proxy.houston.hpecorp.net:8080
